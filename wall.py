@@ -7,6 +7,8 @@ import pprint as pp
 
 # Użyty plik : #231110AC-11-Smiley-West-04-07-2007.ifc
 
+#Obliczenia kubatury ścian 
+
 m = ifcopenshell.open("231110AC-11-Smiley-West-04-07-2007.ifc")
 walls = m.by_type("IfcWall")
 #print(len(walls))
