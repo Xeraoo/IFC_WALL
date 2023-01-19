@@ -1,2 +1,1 @@
-# IFC_WALL
-Repository containing a project from a BIM Technology przemdiot class aimed at counting walls.
+Repository containing a project from a BIM Technology class aimed at counting walls.
