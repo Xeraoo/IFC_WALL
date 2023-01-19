@@ -1,6 +1,12 @@
 import ifcopenshell.util.element
 import pprint as pp
 
+#Tymoteusz Maj
+#Geoinformacja
+#401370
+
+# Użyty plik : #231110AC-11-Smiley-West-04-07-2007.ifc
+
 m = ifcopenshell.open("231110AC-11-Smiley-West-04-07-2007.ifc")
 walls = m.by_type("IfcWall")
 #print(len(walls))
